@@ -1,0 +1,482 @@
+{String,String,Integer,Integer}
+#Bundesliga
+{Dortmund,Werder,2,1}
+{Freiburg,Mainz,1,1}
+{Frankfurt,Leverkusen,2,1}
+{Stuttgart,Wolfsburg,0,1}
+{Hannover,Schalke,2,2}
+{Leverkusen,Freiburg,2,0}
+{Werder,Hamburger,2,0}
+{Wolfsburg,Hannover,0,4}
+{Bayern,Stuttgart,6,1}
+{Dortmund,Leverkusen,3,0}
+{Bayern,Mainz,3,1}
+{Hannover,Werder,3,2}
+{Frankfurt,Hamburger,3,2}
+{Schalke,Bayern,0,2}
+{Hamburger,Dortmund,3,2}
+{Leverkusen,Gladbach,1,1}
+{Werder,Stuttgart,2,2}
+{Bayern,Wolfsburg,3,0}
+{Schalke,Mainz,3,0}
+{Frankfurt,Dortmund,3,3}
+{Gladbach,Hamburger,2,2}
+{Freiburg,Werder,1,2}
+{Werder,Bayern,0,2}
+{Hamburger,Hannover,1,0}
+{Dortmund,Gladbach,5,0}
+{Frankfurt,Freiburg,2,1}
+{Wolfsburg,Mainz,0,2}
+{Schalke,Wolfsburg,3,0}
+{Gladbach,Frankfurt,2,0}
+{Stuttgart,Leverkusen,2,2}
+{Hannover,Dortmund,1,1}
+{Dortmund,Schalke,1,2}
+{Leverkusen,Mainz,2,2}
+{Wolfsburg,Freiburg,0,2}
+{Frankfurt,Hannover,3,1}
+{Werder,Gladbach,4,0}
+{Hamburger,Stuttgart,0,1}
+{Freiburg,Dortmund,0,2}
+{Stuttgart,Frankfurt,2,1}
+{Bayern,Leverkusen,1,2}
+{Hannover,Gladbach,2,3}
+{Dortmund,Stuttgart,0,0}
+{Gladbach,Freiburg,1,1}
+{Hamburger,Bayern,0,3}
+{Werder,Mainz,2,1}
+{Bayern,Frankfurt,2,0}
+{Schalke,Werder,2,1}
+{Freiburg,Hamburger,0,0}
+{Wolfsburg,Leverkusen,3,1}
+{Stuttgart,Hannover,2,4}
+{Gladbach,Stuttgart,1,2}
+{Hannover,Freiburg,1,2}
+{Hamburger,Mainz,1,0}
+{Leverkusen,Schalke,2,0}
+{Bayern,Hannover,5,0}
+{Schalke,Frankfurt,1,1}
+{Wolfsburg,Werder,1,1}
+{Mainz,Dortmund,1,2}
+{Freiburg,Stuttgart,3,0}
+{Hamburger,Schalke,3,1}
+{Frankfurt,Mainz,1,3}
+{Gladbach,Wolfsburg,2,0}
+{Werder,Leverkusen,1,4}
+{Freiburg,Bayern,0,2}
+{Schalke,Gladbach,1,1}
+{Mainz,Hannover,2,1}
+{Bayern,Dortmund,1,1}
+{Wolfsburg,Hamburger,1,1}
+{Dortmund,Wolfsburg,2,3}
+{Stuttgart,Schalke,3,1}
+{Frankfurt,Werder,4,1}
+{Gladbach,Mainz,2,0}
+{Hannover,Leverkusen,3,2}
+{Bayern,Gladbach,1,1}
+{Leverkusen,Hamburger,3,0}
+{Wolfsburg,Frankfurt,0,2}
+{Mainz,Stuttgart,3,1}
+{Schalke,Freiburg,1,3}
+{Schalke,Hannover,5,4}
+{Wolfsburg,Stuttgart,2,0}
+{Mainz,Freiburg,0,0}
+{Werder,Dortmund,0,5}
+{Hannover,Wolfsburg,2,1}
+{Freiburg,Leverkusen,0,0}
+{Hamburger,Werder,3,2}
+{Stuttgart,Bayern,0,2}
+{Werder,Hannover,2,0}
+{Mainz,Bayern,0,3}
+{Hamburger,Frankfurt,0,2}
+{Leverkusen,Dortmund,2,3}
+{Dortmund,Hamburger,1,4}
+{Gladbach,Leverkusen,3,3}
+{Stuttgart,Werder,1,4}
+{Bayern,Schalke,4,0}
+{Wolfsburg,Bayern,0,2}
+{Werder,Freiburg,2,3}
+{Mainz,Schalke,2,2}
+{Hamburger,Gladbach,1,0}
+{Dortmund,Frankfurt,3,0}
+{Freiburg,Frankfurt,0,0}
+{Bayern,Werder,6,1}
+{Hannover,Hamburger,5,1}
+{Mainz,Wolfsburg,1,1}
+{Gladbach,Dortmund,1,1}
+{Frankfurt,Gladbach,0,1}
+{Dortmund,Hannover,3,1}
+{Wolfsburg,Schalke,1,4}
+{Leverkusen,Stuttgart,2,1}
+{Schalke,Dortmund,2,1}
+{Freiburg,Wolfsburg,2,5}
+{Mainz,Leverkusen,1,0}
+{Gladbach,Werder,1,1}
+{Hannover,Frankfurt,0,0}
+{Stuttgart,Hamburger,0,1}
+{Dortmund,Freiburg,5,1}
+{Leverkusen,Bayern,1,2}
+{Frankfurt,Stuttgart,1,2}
+{Gladbach,Hannover,1,0}
+{Stuttgart,Dortmund,1,2}
+{Freiburg,Gladbach,2,0}
+{Mainz,Werder,1,1}
+{Bayern,Hamburger,9,2}
+{Leverkusen,Wolfsburg,1,1}
+{Werder,Schalke,0,2}
+{Frankfurt,Bayern,0,1}
+{Hamburger,Freiburg,0,1}
+{Hannover,Stuttgart,0,0}
+{Freiburg,Hannover,3,1}
+{Mainz,Hamburger,1,2}
+{Schalke,Leverkusen,2,2}
+{Stuttgart,Gladbach,2,0}
+{Dortmund,Mainz,2,0}
+{Hannover,Bayern,1,6}
+{Frankfurt,Schalke,1,0}
+{Werder,Wolfsburg,0,3}
+{Stuttgart,Freiburg,2,1}
+{Bayern,Freiburg,1,0}
+{Leverkusen,Werder,1,0}
+{Wolfsburg,Gladbach,3,1}
+{Mainz,Frankfurt,0,0}
+{Schalke,Hamburger,4,1}
+{Gladbach,Schalke,0,1}
+{Hannover,Mainz,2,2}
+{Dortmund,Bayern,1,1}
+{Hamburger,Wolfsburg,1,1}
+{Schalke,Stuttgart,1,2}
+{Leverkusen,Hannover,3,1}
+{Wolfsburg,Dortmund,3,3}
+{Werder,Frankfurt,1,1}
+{Mainz,Gladbach,2,4}
+{Gladbach,Bayern,3,4}
+{Freiburg,Schalke,1,2}
+{Hamburger,Leverkusen,0,1}
+{Frankfurt,Wolfsburg,2,2}
+{Stuttgart,Mainz,2,2}
+{Leverkusen,Frankfurt,3,1}
+#DFB Pokal
+{Schalke,Mainz,1,2}
+{Wolfsburg,Leverkusen,2,1}
+{Dortmund,Hannover,5,1}
+{Mainz,Freiburg,2,2}
+{Bayern,Dortmund,1,0}
+{Bayern,Wolfsburg,6,1}
+{Stuttgart,Freiburg,2,1}
+{Bayern,Stuttgart,3,2}
+#Premier League
+#{WBA,Liverpool,3,0}
+{Newcastle,Tottenham,2,1}
+{Everton,Manchester United,1,0}
+{Aston Villa,Everton,1,3}
+{Manchester United,Fulham,3,2}
+#{Tottenham,WBA,1,1}
+{Chelsea,Newcastle,2,0}
+{Stoke,Arsenal,0,0}
+{Liverpool,Manchester City,2,2}
+#{WBA,Everton,2,0}
+{Liverpool,Arsenal,0,2}
+{Newcastle,Aston Villa,1,1}
+{Aston Villa,Swansea,2,0}
+#{Fulham,WBA,3,0}
+{Stoke,Manchester City,1,1}
+{Everton,Newcastle,2,2}
+{Swansea,Everton,0,3}
+{Chelsea,Stoke,1,0}
+{Liverpool,Manchester United,1,2}
+{Manchester City,Arsenal,1,1}
+{Arsenal,Chelsea,1,2}
+{Fulham,Manchester City,1,2}
+{Stoke,Swansea,2,0}
+{Manchester United,Tottenham,2,3}
+#{Aston Villa,WBA,1,1}
+{Liverpool,Stoke,0,0}
+{Tottenham,Aston Villa,2,0}
+{Newcastle,Manchester United,0,3}
+{Tottenham,Chelsea,2,4}
+{Fulham,Aston Villa,1,0}
+{Manchester United,Stoke,4,2}
+#{WBA,Manchester City,1,2}
+{Manchester City,Swansea,1,0}
+{Everton,Liverpool,2,2}
+#{Newcastle,WBA,2,1}
+{Chelsea,Manchester United,2,3}
+{Manchester United,Arsenal,2,1}
+{Fulham,Everton,2,2}
+{Swansea,Chelsea,1,1}
+{Liverpool,Newcastle,1,1}
+{Arsenal,Fulham,3,3}
+{Aston Villa,Manchester United,2,3}
+{Manchester City,Tottenham,2,1}
+{Chelsea,Liverpool,1,1}
+{Arsenal,Tottenham,5,2}
+{Manchester City,Aston Villa,5,0}
+{Newcastle,Swansea,1,2}
+#{WBA,Chelsea,2,1}
+{Stoke,Fulham,1,0}
+{Aston Villa,Arsenal,0,0}
+{Swansea,Liverpool,0,0}
+{Chelsea,Manchester City,0,0}
+{Stoke,Newcastle,2,1}
+#{Swansea,WBA,3,1}
+{Tottenham,Liverpool,2,1}
+{Chelsea,Fulham,0,0}
+{Everton,Arsenal,1,1}
+{Arsenal,Swansea,0,2}
+{Fulham,Tottenham,0,3}
+{Manchester City,Everton,1,1}
+#{WBA,Stoke,0,1}
+#{Arsenal,WBA,2,0}
+{Aston Villa,Stoke,0,0}
+{Manchester City,Manchester United,2,3}
+{Everton,Tottenham,2,1}
+{Fulham,Newcastle,2,1}
+{Newcastle,Manchester City,1,3}
+{Liverpool,Aston Villa,1,3}
+{Stoke,Everton,1,1}
+{Tottenham,Swansea,1,0}
+{Tottenham,Stoke,0,0}
+{Liverpool,Fulham,4,0}
+{Swansea,Manchester United,1,1}
+{Chelsea,Aston Villa,8,0}
+{Manchester United,Newcastle,4,3}
+{Aston Villa,Tottenham,0,4}
+{Stoke,Liverpool,3,1}
+{Fulham,Swansea,1,2}
+#{Manchester United,WBA,2,0}
+{Arsenal,Newcastle,7,3}
+{Everton,Chelsea,1,2}
+#{WBA,Fulham,1,2}
+{Manchester City,Stoke,3,0}
+{Swansea,Aston Villa,2,2}
+{Newcastle,Everton,1,2}
+{Everton,Swansea,0,0}
+{Stoke,Chelsea,0,4}
+{Manchester United,Liverpool,2,1}
+{Arsenal,Manchester City,0,2}
+{Manchester City,Fulham,2,0}
+{Swansea,Stoke,3,1}
+#{WBA,Aston Villa,2,2}
+{Chelsea,Arsenal,2,1}
+{Tottenham,Manchester United,1,1}
+{Aston Villa,Newcastle,1,2}
+{Arsenal,Liverpool,2,2}
+#{Everton,WBA,2,1}
+{Arsenal,Stoke,1,0}
+{Everton,Aston Villa,3,3}
+{Newcastle,Chelsea,3,2}
+{Fulham,Manchester United,0,1}
+#{WBA,Tottenham,0,1}
+{Manchester City,Liverpool,2,2}
+{Tottenham,Newcastle,2,1}
+{Manchester United,Everton,2,0}
+#{Liverpool,WBA,0,2}
+{Liverpool,Swansea,5,0}
+{Fulham,Stoke,1,0}
+{Arsenal,Aston Villa,2,1}
+{Manchester City,Chelsea,2,0}
+#{Chelsea,WBA,1,0}
+{Swansea,Newcastle,1,0}
+{Tottenham,Arsenal,2,1}
+{Aston Villa,Manchester City,0,1}
+#{WBA,Swansea,2,1}
+{Newcastle,Stoke,2,1}
+{Liverpool,Tottenham,3,2}
+{Arsenal,Everton,0,0}
+{Fulham,Chelsea,0,3}
+{Everton,Manchester City,2,0}
+#{Stoke,WBA,0,0}
+{Swansea,Arsenal,0,2}
+{Tottenham,Fulham,0,1}
+{Manchester City,Newcastle,4,0}
+{Swansea,Tottenham,1,2}
+{Everton,Stoke,1,0}
+{Aston Villa,Liverpool,1,2}
+{Stoke,Aston Villa,1,3}
+#{WBA,Arsenal,1,2}
+{Tottenham,Everton,2,2}
+{Newcastle,Fulham,1,0}
+{Manchester United,Manchester City,1,2}
+{Aston Villa,Fulham,1,1}
+{Stoke,Manchester United,0,2}
+#{Manchester City,WBA,1,0}
+{Chelsea,Tottenham,2,2}
+{Fulham,Arsenal,0,1}
+#{WBA,Newcastle,1,1}
+{Tottenham,Manchester City,3,1}
+{Liverpool,Chelsea,2,2}
+{Manchester United,Aston Villa,3,0}
+{Everton,Fulham,1,0}
+{Newcastle,Liverpool,0,6}
+{Chelsea,Swansea,2,0}
+{Arsenal,Manchester United,1,1}
+{Swansea,Manchester City,0,0}
+{Liverpool,Everton,0,0}
+{Manchester United,Chelsea,0,1}
+{Aston Villa,Chelsea,1,2}
+{Stoke,Tottenham,1,2}
+{Fulham,Liverpool,1,3}
+{Manchester United,Swansea,2,1}
+{Chelsea,Everton,2,1}
+{Newcastle,Arsenal,0,1}
+{Swansea,Fulham,0,3}
+#{WBA,Manchester United,5,5}
+#FA Cup
+{Swansea,Arsenal,2,2}
+{Arsenal,Swansea,1,0}
+{Stoke,Manchester City,0,1}
+{Manchester United,Fulham,4,1}
+{Manchester United,Chelsea,2,2}
+{Chelsea,Manchester United,1,0}
+#Primera Division
+{Sevilla,Getafe,2,1}
+{Athletic Club,Real Betis,3,5}
+{Real Madrid,Valencia,1,1}
+{Barcelona,Real Sociedad,5,1}
+{Levante,Atletico Madrid,1,1}
+{Getafe,Real Madrid,2,1}
+{Atletico Madrid,Athletic Club,4,0}
+#{Mallorca,Real Sociedad,1,0}
+{Barcelona,Valencia,1,0}
+{Real Betis,Atletico Madrid,2,4}
+{Malaga,Levante,3,1}
+{Getafe,Barcelona,1,4}
+{Sevilla,Real Madrid,1,0}
+{Levante,Real Sociedad,2,1}
+{Athletic Club,Malaga,0,0}
+{Malaga,Real Betis,4,0}
+{Real Sociedad,Athletic Club,2,0}
+{Sevilla,Barcelona,2,3}
+{Real Betis,Real Sociedad,2,0}
+{Levante,Valencia,1,0}
+{Barcelona,Real Madrid,2,2}
+{Atletico Madrid,Malaga,2,1}
+{Valencia,Athletic Club,3,2}
+{Getafe,Levante,0,1}
+{Real Sociedad,Atletico Madrid,0,1}
+{Real Betis,Valencia,1,0}
+#{Levante,Granada,3,1}
+{Athletic Club,Getafe,1,2}
+{Valencia,Atletico Madrid,2,0}
+{Sevilla,Levante,0,0}
+{Getafe,Real Betis,2,4}
+{Malaga,Real Sociedad,1,2}
+{Athletic Club,Sevilla,2,1}
+{Atletico Madrid,Getafe,2,0}
+{Levante,Real Madrid,1,2}
+{Real Madrid,Athletic Club,5,1}
+{Sevilla,Real Betis,5,1}
+{Malaga,Valencia,4,0}
+{Real Betis,Real Madrid,1,0}
+{Atletico Madrid,Sevilla,4,0}
+{Levante,Barcelona,0,4}
+{Getafe,Malaga,1,0}
+{Valencia,Real Sociedad,2,5}
+{Barcelona,Athletic Club,5,1}
+{Real Madrid,Atletico Madrid,2,0}
+{Real Sociedad,Getafe,1,1}
+{Real Betis,Barcelona,1,2}
+{Sevilla,Malaga,0,2}
+{Barcelona,Atletico Madrid,4,1}
+{Real Sociedad,Sevilla,2,1}
+{Valencia,Getafe,4,2}
+{Malaga,Real Madrid,3,2}
+{Levante,Athletic Club,3,1}
+{Real Madrid,Real Sociedad,4,3}
+{Valencia,Sevilla,2,0}
+{Real Betis,Levante,2,0}
+{Malaga,Barcelona,1,3}
+{Real Sociedad,Barcelona,3,2}
+{Getafe,Sevilla,1,1}
+{Atletico Madrid,Levante,2,0}
+{Valencia,Real Madrid,0,5}
+{Real Betis,Athletic Club,1,1}
+{Real Madrid,Getafe,4,0}
+{Athletic Club,Atletico Madrid,3,0}
+{Valencia,Barcelona,1,1}
+{Atletico Madrid,Real Betis,1,0}
+{Levante,Malaga,1,2}
+{Real Madrid,Sevilla,4,1}
+{Barcelona,Getafe,6,1}
+{Malaga,Athletic Club,1,0}
+{Real Sociedad,Levante,1,1}
+{Athletic Club,Real Sociedad,1,3}
+{Barcelona,Sevilla,2,1}
+{Real Betis,Malaga,3,0}
+{Real Madrid,Barcelona,2,1}
+{Valencia,Levante,2,2}
+{Malaga,Atletico Madrid,0,0}
+{Real Sociedad,Real Betis,3,3}
+{Athletic Club,Valencia,1,0}
+{Levante,Getafe,0,0}
+{Atletico Madrid,Real Sociedad,0,1}
+{Getafe,Athletic Club,1,0}
+{Valencia,Real Betis,3,0}
+{Levante,Sevilla,1,0}
+{Atletico Madrid,Valencia,1,1}
+{Real Betis,Getafe,0,0}
+{Real Sociedad,Malaga,4,2}
+{Real Madrid,Levante,5,1}
+{Getafe,Atletico Madrid,0,0}
+{Sevilla,Athletic Club,2,1}
+{Real Betis,Sevilla,3,3}
+{Athletic Club,Real Madrid,0,3}
+{Real Madrid,Real Betis,3,1}
+{Barcelona,Levante,1,0}
+{Valencia,Malaga,5,1}
+{Sevilla,Atletico Madrid,0,1}
+{Athletic Club,Barcelona,2,2}
+{Atletico Madrid,Barcelona,1,2}
+{Malaga,Getafe,2,1}
+{Real Sociedad,Valencia,4,2}
+{Barcelona,Real Betis,4,2}
+{Getafe,Real Sociedad,2,1}
+{Atletico Madrid,Barcelona,1,2}
+{Malaga,Sevilla,0,0}
+{Real Madrid,Malaga,6,2}
+{Getafe,Valencia,0,1}
+{Sevilla,Real Sociedad,1,2}
+{Real Sociedad,Real Madrid,3,3}
+{Athletic Club,Levante,0,1}
+{Barcelona,Malaga,4,1}
+{Sevilla,Valencia,4,3}
+{Levante,Real Betis,1,1}
+{Atletico Madrid,Real Madrid,1,2}
+#Copa Del Rey
+{Atletico Madrid,Getafe,3,0}
+{Getafe,Atletico Madrid,0,0}
+{Real Madrid,Valencia,2,0}
+{Valencia,Real Madrid,1,1}
+{Barcelona,Malaga,2,2}
+{Malaga,Barcelona,2,4}
+{Atletico Madrid,Real Betis,2,0}
+{Real Betis,Atletico Madrid,1,1}
+{Real Madrid,Barcelona,1,1}
+{Barcelona,Real Madrid,1,3}
+{Atletico Madrid,Sevilla,2,1}
+{Sevilla,Atletico Madrid,2,2}
+#CL
+{Arsenal,Schalke,0,2}
+{Schalke,Arsenal,2,2}
+{Real Madrid,Manchester City,3,2}
+{Manchester City,Dortmund,1,1}
+{Dortmund,Real Madrid,2,1}
+{Real Madrid,Dortmund,2,2}
+{Manchester City,Real Madrid,1,1}
+{Dortmund,Manchester City,1,0}
+{Bayern,Valencia,2,1}
+{Valencia,Bayern,1,1}
+{Real Madrid,Manchester United,1,1}
+{Manchester United,Real Madrid,1,2}
+{Arsenal,Bayern,1,3}
+{Bayern,Arsenal,0,2}
+{Malaga,Dortmund,0,0}
+{Dortmund,Malaga,3,2}
+{Bayern,Barcelona,4,0}
+{Barcelona,Bayern,0,3}
+{Dortmund,Real Madrid,4,1}
+{Real Madrid,Dortmund,2,0}
+#Europa League
+{Hannover,Levante,2,1}
+{Levante,Hannover,2,2}
