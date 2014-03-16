@@ -1,5 +1,7 @@
 package org.sjon.core;
 
+import java.text.ParseException;
+import java.text.SimpleDateFormat;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.logging.Logger;
@@ -83,6 +85,15 @@ public class Schema {
 			try {
 				Double.parseDouble(data);
 			} catch (NumberFormatException nfex) {
+				return false;
+			}
+			return true;
+		case "DateTime":
+			try {
+				logger.config("Date to parse: " + data.trim());
+				new SimpleDateFormat("yyyy-MM-dd HH:mm").parse(data.trim());
+			} catch (ParseException parseEx) {
+				parseEx.printStackTrace();
 				return false;
 			}
 			return true;

@@ -1,5 +1,8 @@
 package org.sjon.core;
 
+import java.text.ParseException;
+import java.text.SimpleDateFormat;
+import java.util.Date;
 import java.util.logging.Logger;
 
 /**
@@ -51,6 +54,18 @@ public class SjonRecord {
 	 */
 	public double getDouble(int index) {
 		return Double.parseDouble(this.data[index].trim());
+	}
+	
+	/**
+	 * 
+	 * Getter for a date value in the SJON record
+	 * 
+	 * @param index the index of the value in the record, corresponding to the ordinal of its column
+	 * @return a value of a column of the SJON record as a java.util.Date type. The format expected is "yyyy-MM-dd'T'hh:mm". Anything else will raise an exception.
+	 * @throws ParseException if the date is not in the specified format 
+	 */
+	public Date getDateTime(int index) throws ParseException {	
+		return new SimpleDateFormat("yyyy-MM-dd HH:mm").parse(this.data[index].trim());
 	}
 	
 	/**
